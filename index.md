@@ -6,4 +6,5 @@ I got obsessed with Linux and Automation. Having these obsessions, [Gluo NV](htt
 was the perfect company to start my IT carreer. And I am still having a lot of
 fun at [Gluo NV](http://www.gluo.be).
 
-Currently I am working as a Container Orchestration Engineer at [Johnson & Johnson](https://www.jnj.com).  
+Currently I am working as a Container Orchestration Engineer consultant
+at [Johnson & Johnson](https://www.jnj.com).  
