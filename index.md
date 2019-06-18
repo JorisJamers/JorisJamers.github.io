@@ -11,9 +11,9 @@ at [Johnson & Johnson](https://www.jnj.com).
 
 # Education
 
-| Year        | Study           | Degree |
-| ------------- |:-------------:|:---------:|
-| 2015 - 2018     | Applied Computer Sciences | Bachelor
+| Year            | Study                     | Degree    |
+|:---------------:|:-------------------------:|:---------:|
+| 2015 - 2018     | Applied Computer Sciences | Bachelor  |
 
 # Certification
 
