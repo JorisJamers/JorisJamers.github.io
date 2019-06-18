@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-logo: [images/me.png]
+logo: /images/me.png
 title: [Joris Jamers]
 description: [This page is about myself and the projects I did and currently working on.]
