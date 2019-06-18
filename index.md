@@ -1,4 +1,6 @@
 # About Me
 
-Started at [Gluo NV](https://www.gluo.be) as a DevOps Engineer on the 1st of
-August 2019.
+Started at [Gluo NV](http://www.gluo.be) as a DevOps Engineer on the 1st of
+August 2019. During my studies at [University College PXL](https://www.pxl.be)
+I got obsessed with Linux and Automation. Having these obsessions, [Gluo NV](http://www.gluo.be)
+was the perfect company to start my IT carreer. 
