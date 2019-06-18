@@ -1,3 +1,1 @@
-# Joris Jamers
-
-## DevOps Engineer
+# About Me
