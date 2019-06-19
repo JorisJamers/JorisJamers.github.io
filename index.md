@@ -25,14 +25,4 @@ Most of my free time I spend on Table Tennis. I'm also a huge travel enthusiast.
 
 # Projects
 
-#### Kubernetes - Proof of Concept
-
-#### Private GKE Cluster on Google Cloud Platform
-
-#### Descours & Cabaud
-
-#### Infofarm - Kubeflow Proof of Concept
-
-#### Infrastructure 2.0 workshop & hackaton
-
-#### Internal project - Openshift Automation
+[# Projecst](pages/projects.md)
