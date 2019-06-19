@@ -6,6 +6,15 @@ This project was a mix of some skills I got from the Descours & Cabaud project a
 
 Instead of using Jenkins for the CICD we used Gitlab. The use of Gitlab made me learn some new Terraform skills as well, how we could provide Gitlab environment variables on a group level instead of manually provide them in the projects. And the way I saw Terraform in a pipeline. Using some Gitops I started putting my Terraform code in Gitlab so that developers could destroy or create DEV environments with only a value change on a variable. To test this I also wrote some python code to refresh my python skillset.
 
+#### Tools & Technologies
+
+* Terraform
+* Google Cloud Platform
+* Google Kubernetes Engine
+* Gitlab-ci
+* Kubernetes
+* Python 
+
 [Back](../projects.md)
 
 [Home](../../index.md)

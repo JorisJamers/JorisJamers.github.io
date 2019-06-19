@@ -6,6 +6,15 @@ Configuring the exchanges and queues in RabbitMQ, creating schemas in Postgres. 
 Created a private registry for the docker images on Nexus and provided jacoco reports on SonarQube.
 Also created some extra bash scripts to make the life of the developers easy, get the logs of the Docker containers to debug bugs or misconfigurations.
 
+#### Tools & Technologies
+
+* Jenkins
+* RabbitMQ
+* Docker
+* Docker Compose
+* Postgres
+* SonarQube
+* Nexus 
 
 [Back](../projects.md)
 

@@ -23,4 +23,17 @@ Most of my free time I spend on Table Tennis. I'm also a huge travel enthusiast.
 
 [Certificate](https://www.redhat.com/rhtapps/services/certifications/badge/verify/M4H7OE3A4L77AX36P2ZTL5CTEMAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=)
 
+# Main skillset
+
+At the moment I am heavily intrested in the following tools :
+
+* Terraform
+* Kubernetes
+* Python
+* Jenkins / Gitlab-ci
+
+In my project descriptions you will find a more detailed skillset linked to the
+project I've done. As a DevOps Engineer you are forced to use a lot of tools, but
+these in my main skillset are the ones I enjoy using the most. 
+
 # [Projects](pages/projects.md)

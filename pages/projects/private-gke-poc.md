@@ -6,6 +6,13 @@ In this project I did some research to how we are able to create a private GKE c
 
 I ended up putting all this infrastructure in Terraform. The Terraform code would deploy the GKE private cluster, the bastion host and all the other resources we would need to make this work (e.g. network, subnetwork, NAT router, firewall, …). Of course, with Terraform best practices to create re-useable modules.
 
+#### Tools & Technologies
+
+* Terraform
+* Google Cloud Platform
+* Google Kubernetes Engine
+* Gitlab
+* Kubernetes 
 
 [Back](../projects.md)
 

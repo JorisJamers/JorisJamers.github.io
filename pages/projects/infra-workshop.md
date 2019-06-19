@@ -7,6 +7,16 @@ Some of the topics covered:
 *	Autoscaling
 *	Cloud Nertworking
 
+#### Tools & Technologies
+
+* Ansible
+* Amazon Web Services
+  * CloudFormation
+  * DynamoDB
+  * ELB
+  * ASG
+  * S3
+  * ... 
 
 [Back](../projects.md)
 

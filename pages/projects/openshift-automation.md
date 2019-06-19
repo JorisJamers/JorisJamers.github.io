@@ -6,6 +6,13 @@ Multi-week project to fully automate the installation and configuration of an Op
 *	Automated configuration of OpenShift
 *	Automated configuration of CI/CD Pipelines
 
+#### Tools & Technologies
+
+* Git
+* Ansible
+* Bash
+* OpenShift
+* Jenkins 
 
 [Back](../projects.md)
 
