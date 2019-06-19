@@ -27,10 +27,11 @@ Most of my free time I spend on Table Tennis. I'm also a huge travel enthusiast.
 
 At the moment I am heavily intrested in the following tools.
 
-* Terraform
-* Kubernetes
-* Python
-* Jenkins / Gitlab-ci
+* [Terraform](https://www.terraform.io)
+* [Kubernetes](https://kubernetes.io)
+* [Python](https://www.python.org)
+* [Jenkins](https://jenkins.io)
+* [Gitlab-ci](https://about.gitlab.com/product/continuous-integration/)
 
 In my project descriptions you will find a more detailed skillset linked to the
 project I've done. As a DevOps Engineer you are forced to use a lot of tools, but
