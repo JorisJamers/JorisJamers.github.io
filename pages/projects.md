@@ -10,4 +10,4 @@
 
 ## [Internal project - Openshift Automation](projects/openshift-automation.md)
 
-[Back](../index.md)
+[Back](../../index.md)
