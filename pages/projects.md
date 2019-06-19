@@ -31,6 +31,8 @@ University College PXL
 
 ## [Internal project - Openshift Automation](projects/openshift-automation.md)
 
+#### Company
+
 Redhat Openshift Course
 
 [Back](../index.md)
