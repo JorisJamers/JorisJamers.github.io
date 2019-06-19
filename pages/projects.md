@@ -3,6 +3,7 @@
 #### Company
 
 XTi
+
 Nfuse
 
 ## [Private GKE Cluster on Google Cloud Platform](projects/private-gke-poc.md)

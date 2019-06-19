@@ -1,6 +1,6 @@
 # Kubernetes - Proof of Concept
 
-Together with XTi and Refleqt we created a Kubernetes POC. This project was a research project on how we could create the best workflow for new projects using Kubernetes.
+Together with XTi and Nfuse we created a Kubernetes POC. This project was a research project on how we could create the best workflow for new projects using Kubernetes.
 
 This project was a mix of some skills I got from the Descours & Cabaud project and the Private GKE cluster project. This combined Kubernetes with Gitlab and Maven.
 
@@ -13,7 +13,7 @@ Instead of using Jenkins for the CICD we used Gitlab. The use of Gitlab made me 
 * Google Kubernetes Engine
 * Gitlab-ci
 * Kubernetes
-* Python 
+* Python
 
 [Back](../projects.md)
 
