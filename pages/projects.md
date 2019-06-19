@@ -2,35 +2,35 @@
 
 #### Company
 
-* XTi
-* Nfuse
+XTi
+Nfuse
 
 ## [Private GKE Cluster on Google Cloud Platform](projects/private-gke-poc.md)
 
 #### Company
 
-* Internal Gluo project
+Internal Gluo project
 
 ## [Descours & Cabaud](projects/descours-cabaud.md)
 
 #### Company
 
-* Descours & Cabaud
+Descours & Cabaud
 
 ## [Infofarm - Kubeflow Proof of Concept](projects/infofarm-kubeflow-poc.md)
 
 #### Company
 
-* Infofarm
+Infofarm
 
 ## [Infrastructure 2.0 workshop & hackaton](projects/infra-workshop.md)
 
 #### Company
 
-* University College PXL
+University College PXL
 
 ## [Internal project - Openshift Automation](projects/openshift-automation.md)
 
-* Redhat Openshift Course
+Redhat Openshift Course
 
 [Back](../index.md)
