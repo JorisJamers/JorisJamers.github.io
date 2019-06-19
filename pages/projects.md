@@ -33,4 +33,4 @@
 
 * Redhat Openshift Course
 
-[Back](../../index.md)
+[Back](../index.md)
