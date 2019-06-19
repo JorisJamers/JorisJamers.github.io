@@ -25,7 +25,7 @@ Most of my free time I spend on Table Tennis. I'm also a huge travel enthusiast.
 
 # Main skillset
 
-At the moment I am heavily intrested in the following tools :
+At the moment I am heavily intrested in the following tools.
 
 * Terraform
 * Kubernetes
@@ -34,6 +34,6 @@ At the moment I am heavily intrested in the following tools :
 
 In my project descriptions you will find a more detailed skillset linked to the
 project I've done. As a DevOps Engineer you are forced to use a lot of tools, but
-these in my main skillset are the ones I enjoy using the most. 
+these in my main skillset are the ones I enjoy using the most.
 
 # [Projects](pages/projects.md)
