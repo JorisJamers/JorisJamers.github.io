@@ -15,6 +15,16 @@ Most of my free time I spend on Table Tennis. I'm also a huge travel enthusiast.
 ## [Kubetools](pages/projects/kubetools.md)
 Some cool little maintenance tools for Kubernetes.
 
+## Gameboy Refurbishing 
+
+In my spare time I also refurbish and mod gameboys. It could be anything, 
+reshelling the gameboy or upgrade it with a new screen. Succesfully modded / 
+refurbished the following models : 
+
+* GBP
+* GBC 
+* GBA 
+
 # Education
 
 | Year            | Study                     | Degree    |
