@@ -11,7 +11,9 @@ at [Johnson & Johnson](https://www.jnj.com).
 
 Most of my free time I spend on Table Tennis. I'm also a huge travel enthusiast.  
 
-# [Kubetools](pages/projects/kubetools.md)
+# Hobby projects 
+## [Kubetools](pages/projects/kubetools.md)
+Some cool little maintenance tools for Kubernetes.
 
 # Education
 
