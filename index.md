@@ -37,3 +37,9 @@ project I've done. As a DevOps Engineer you are forced to use a lot of tools, bu
 these in my main skillset are the ones I enjoy using the most.
 
 # [Projects](pages/projects.md)
+
+# Socials
+
+[<img src="/images/linkedin.png">](https://www.linkedin.com/in/jorisjamers/) [<img src="/images/instagram.png">](https://www.instagram.com/jorisjamers/) [<img src="/images/twitter.png">](https://twitter.com/jorisjamers)
+
+
