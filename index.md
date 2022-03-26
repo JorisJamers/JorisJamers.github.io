@@ -9,7 +9,7 @@ fun at [Gluo NV](http://www.gluo.be).
 Currently I am working as a Container Orchestration Engineer consultant
 at [Johnson & Johnson](https://www.jnj.com).  
 
-Most of my free time I spend on Table Tennis. I'm also a huge travel enthusiast.  
+Most of my free time I spend on table tennis, mountainbiking and hiking. I'm also a huge travel enthusiast.  
 
 # Hobby projects 
 ## [Kubetools](pages/projects/kubetools.md)
