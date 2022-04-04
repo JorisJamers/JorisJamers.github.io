@@ -21,7 +21,7 @@ In my spare time I also refurbish and mod gameboys. It could be anything,
 reshelling the gameboy or upgrade it with a new screen. Succesfully modded / 
 refurbished the following models : 
 
-* GBP
+* [GBP](pages/hobbyprojects/gbp.md)
 * GBC 
 * GBA 
 
