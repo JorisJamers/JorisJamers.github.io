@@ -5,7 +5,7 @@ Some of the topics covered:
 *	Infrastructure as Code
 *	Cloud Services
 *	Autoscaling
-*	Cloud Nertworking
+*	Cloud Networking
 
 #### Tools & Technologies
 
