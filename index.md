@@ -32,7 +32,7 @@ refurbished the following models :
 
 # Main skillset
 
-At the moment I am heavily intrested in the following tools.
+At the moment I am deeply interested in the following tools.
 
 * [Terraform](https://www.terraform.io)
 * [Kubernetes](https://kubernetes.io)
