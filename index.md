@@ -46,8 +46,12 @@ these in my main skillset are the ones I enjoy using the most.
 
 # [Projects](pages/projects.md)
 
+# [Get in touch](pages/contact.md)
+
 # Socials
 
 [<img src="/images/linkedin.png">](https://www.linkedin.com/in/jorisjamers/) [<img src="/images/instagram.png">](https://www.instagram.com/jorisjamers/) [<img src="/images/twitter.png">](https://twitter.com/jorisjamers)
+
+
 
 
