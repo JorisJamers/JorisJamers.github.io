@@ -15,7 +15,7 @@ Some cool little maintenance tools for Kubernetes.
 
 ## Gameboy Refurbishing 
 
-In my spare time I also refurbish and mod gameboys. This can be anything, 
+In my spare time I also refurbish and mod GAMEBOY. This can be anything, 
 from reshelling the gameboy or upgrade it with a new screen. Succesfully modded / 
 refurbished the following models : 
 
