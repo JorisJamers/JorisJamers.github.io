@@ -12,6 +12,7 @@ Whilest the gameboy was opened I also did a thorough internal cleaning of the co
 
 <img src="/images/gbpafternew.png">
 
+[Home](../../index.md)
 
 
 
