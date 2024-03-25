@@ -9,12 +9,13 @@ at [Johnson & Johnson](https://www.jnj.com).
 
 Most of my free time I spend on playing table tennis, mountainbiking and hiking. I'm also a huge travel enthusiast.  
 
-# Hobby projects 
-## [Kubetools](pages/projects/kubetools.md)
-Some cool little maintenance tools for Kubernetes.
+# Hobby projects
 
-## [Retro Randonneurs](http://retrorandonneurs.be)
-Work in progress
+## [Street Photography](pages/hobbyprojects/photo.md)
+
+## [Kubetools](pages/projects/kubetools.md)
+
+Some cool little maintenance tools for Kubernetes.
 
 ## Gameboy Refurbishing 
 
