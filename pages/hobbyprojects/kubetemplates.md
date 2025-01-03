@@ -6,4 +6,4 @@
 
 ## [Persistent Volume](../kubetemplates/persistentvolume.md)
 
-## [Persistent Volume Cliam](../kubetemplates/persistentvolumeclaim.md)
+## [Persistent Volume Claim](../kubetemplates/persistentvolumeclaim.md)
