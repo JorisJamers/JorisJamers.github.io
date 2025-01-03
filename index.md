@@ -13,7 +13,9 @@ Most of my free time I spend on playing table tennis, mountainbiking and hiking.
 
 ## [Street Photography](pages/hobbyprojects/photo.md)
 
-## [Kubetools](pages/projects/kubetools.md)
+## [Kubetools](pages/hobbyprojects/kubetools.md)
+
+## [Kube Templates](pages/hobbyprojects/kubetemplates.md)
 
 Some cool little maintenance tools for Kubernetes.
 
