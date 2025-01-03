@@ -1,3 +1,3 @@
 # Kubetemplates
 
-## [Volcano Job](pages/kubetemplates/volcanojob.md)
+## [Volcano Job](../kubetemplates/volcanojob.md)
