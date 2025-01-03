@@ -56,7 +56,7 @@ these in my main skillset are the ones I enjoy using the most.
 
 # Socials
 
-[<img src="/images/linkedin.png">](https://www.linkedin.com/in/jorisjamers/) [<img src="/images/instagram.png">](https://www.instagram.com/jorisjamers/) [<img src="/images/twitter.png">](https://twitter.com/jorisjamers)
+[<img src="/images/linkedin.png">](https://www.linkedin.com/in/jorisjamers/) [<img src="/images/instagram.png">](https://www.instagram.com/jrsjmrs.jpeg/) [<img src="/images/twitter.png">](https://twitter.com/jorisjamers)
 
 
 
